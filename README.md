@@ -11,7 +11,7 @@ int main() {
 	pin_count=0;
 	pin_out=false;
 	while(true){
-		cout<<"welcome to sokolo mobile money service \n";
+		cout<<"welcome to Sika bii ba mobile money service \n";
 	    cout<<"\n";
 	    cout<<"1, Authentication \n";
 	    cout<<"2, Reset pin \n";
